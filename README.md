@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a>  
 <img src="https://img.shields.io/badge/scikit learn-f7931e?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Qlick-green?style=flat-square&logo=Qlick&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Tableau-#E97627?style=flat-square&logo=Tableau&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Tableau-white?style=flat-square&logo=Tableau&logoColor=blue"/></a> 
 
 - Python sklearn 사용한 데이터 분석 및 모델링 경험
 - Beautiful Soup 활용한 데이터 크롤링
@@ -47,7 +47,7 @@
 ## Education  
 
 **동아대 스마트헬스케어융합전공**(2015 ~ 2021)  
-> 
+> R기반통계분석, 데이터베이스시스템, 빅데이터분석, 머신러닝, 텍스트분석, 빅데이터프로젝트(종합설계), 연구학점(텍스트분석 연구실)
 
 **Study**
 - 동아대 IT 취업 동아리 머신러닝 스터디(2022.03.29 ~ 진행중)
