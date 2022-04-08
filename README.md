@@ -16,12 +16,12 @@
 **Tech** :  
 한 번 이상 다루어 본 기술들   
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img alt="R" src ="https://img.shields.io/badge/R-blue.svg?&style=for-the-badge&logo=R&logoColor=#75AADB"/>
-<img alt="PHP" src ="https://img.shields.io/badge/PHP-black.svg?&style=for-the-badge&logo=PHP&logoColor=#777BB4"/>
+<img src ="https://img.shields.io/badge/R-blue.svg?&style=flat-square&logo=R&logoColor=#75AADB"/>
+<img src ="https://img.shields.io/badge/PHP-black.svg?&style=flat-square&logo=PHP&logoColor=#777BB4"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>
-<img alt="MYSQL" src ="https://img.shields.io/badge/MYSQL-blue.svg?&style=for-the-badge&logo=MYSQL&logoColor=white"/>
+<img src ="https://img.shields.io/badge/MYSQL-blue.svg?&style=flat-square&logo=MYSQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a>  
