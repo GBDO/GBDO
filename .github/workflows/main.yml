@@ -12,4 +12,5 @@ jobs:
     steps:
       - uses: GBDO/metrics@latest
         with:
+          config_timezone: Korea/Seoul
           token: ${{ secrets.METRICS_TOKEN }}
