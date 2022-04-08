@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>
 <img alt="MYSQL" src ="https://img.shields.io/badge/MYSQL-blue.svg?&style=for-the-badge&logo=MYSQL&logoColor=white"/>
-<img alt="Rstudio" src ="https://img.shields.io/badge/Rstudio-#75AADB.svg?&style=for-the-badge&logo=Rstudio&logoColor=white"/>
+<img alt="R" src ="https://img.shields.io/badge/R-white.svg?&style=for-the-badge&logo=R&logoColor=#75AADB"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a>  
