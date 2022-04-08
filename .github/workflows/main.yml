@@ -10,11 +10,12 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: GBDO/metrics@master
-        with:
-          filename: metrics.plugin.isocalendar.svg
+    - uses: GBDO/metrics@latest
+      with:
+          filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
 
 
