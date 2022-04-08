@@ -12,6 +12,9 @@ jobs:
     steps:
       - uses: GBDO/metrics@master
         with:
+          filename: metrics.plugin.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
 
 
