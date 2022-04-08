@@ -1,4 +1,4 @@
-name: GBDO
+name: Metrics
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
@@ -10,8 +10,9 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: GBDO/GBDO@latest
+      - uses: GBDO/main@latest
         with:
+          token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Korea/Seoul
           base: header
           plugin_isocalendar: yes
@@ -19,4 +20,4 @@ jobs:
           plugin_stars: yes
           config_order: base.header, isocalendar, languages, stars
           config_presets: https://raw.githubusercontent.com/lowlighter/metrics/presets/lunar-red/preset.yaml
-          token: ${{ secrets.METRICS_TOKEN }}
+
