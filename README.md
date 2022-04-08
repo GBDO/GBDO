@@ -11,49 +11,40 @@
 > 데이터 분석 직무를 목표로, 데이터에 관한 인사이트 채집을 위한 여정 중입니다.
 
 ## Skill
-> 뱃지 만드는 법은 [여기](https://2dowon.netlify.app/etc/github-badge/)를 보세요. 내가 가진 기술들을 효과적으로 나타낼 수 있습니다.
+<!-- 뱃지 만드는 법은 [여기](https://2dowon.netlify.app/etc/github-badge/)를 보세요. 내가 가진 기술들을 효과적으로 나타낼 수 있습니다. -->
 
 **Tech** :  
 한 번 이상 다루어 본 기술들   
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img alt="R" src ="https://img.shields.io/badge/R-blue.svg?&style=for-the-badge&logo=R&logoColor=#75AADB"/>
+<img alt="PHP" src ="https://img.shields.io/badge/PHP-black.svg?&style=for-the-badge&logo=PHP&logoColor=#777BB4"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>
 <img alt="MYSQL" src ="https://img.shields.io/badge/MYSQL-blue.svg?&style=for-the-badge&logo=MYSQL&logoColor=white"/>
-<img alt="R" src ="https://img.shields.io/badge/R-white.svg?&style=for-the-badge&logo=R&logoColor=#75AADB"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a>  
 <img src="https://img.shields.io/badge/scikit learn-f7931e?style=flat-square&logo=scikit-learn&logoColor=white"/></a> 
 
-- AWS EC2에서 Ubuntu, anaconda 환경 구축 경험
-- AWS RDS 생성 및 EC2 python과 연동 경험
-- Amazon S3 이용한 데이터 업로드 경험
-- Python sklearn,keras 사용한 데이터 분석 및 모델링 경험
-- Crontab 활용한 동적 데이터 수집 경험
-- Beautiful Soup, Selenium 활용한 데이터 크롤링
-- Matplotlib, Plotly 사용한 데이터 시각화(basic chart 구현)
-- 서버리스 데이터 레이크 아키텍처 설계
-- Amazon S3를 스토리지를 사용하여 데이터를 Data Lake로 수집하는 데이터 처리 파이프라인 구축
-- 실시간 스트리밍 데이터에 Amazon Kinesis 사용
-- AWS Glue를 사용하여 데이터세트 자동 분류
-- AWS Glue 개발 엔드포인트에 연결된 Amazon SageMaker Jupyter 노트북에서 대화형 ETL 스크립트 실행
-- Amazon Athena를 사용하여 데이터를 쿼리하고 Amazon QuickSight를 사용하여 시각화
+- Python sklearn 사용한 데이터 분석 및 모델링 경험
+- Beautiful Soup 활용한 데이터 크롤링
+- Matplotlib 사용한 데이터 시각화(basic chart 구현)
+
 
 ### 앞으로 공부할 것들
 - 데이터 기반 의사결정 위한 정량 수치 정의
 - 서비스 KPI의 측정과 평가를 위한 로그 설계를 포함한 각종 지표 설계, 생성, 모니터링, 대시보드 구축
 - 전사 서비스 및 다양한 이슈에 대한 데이터 분석 및 인사이트 도출
 -  Python, SQL 등을 사용한 데이터 전처리, 분석 경험
--  BI 툴 ()
+-  BI 툴 (Qlick, Tableau)
 
 
-## Experience
-  - not yet
+<!-- ## Experience -->
 
 ## Education  
 
-**동아대 스마트헬스케어 융합전공**(2015 ~ 2021)  
+**동아대 스마트헬스케어융합전공**(2015 ~ 2021)  
 > 
 
 **Study**
@@ -66,6 +57,6 @@
 - 동아대 AI 동아리 딥러닝 스터디(2022.03.07 ~ 진행중)
 
 
-## Projects
+<!-- ## Projects -->
 
  
