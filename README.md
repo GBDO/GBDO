@@ -25,7 +25,9 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a>  
-<img src="https://img.shields.io/badge/scikit learn-f7931e?style=flat-square&logo=scikit-learn&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/scikit learn-f7931e?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Qlick-green?style=flat-square&logo=Qlick&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Tableau-#E97627?style=flat-square&logo=Tableau&logoColor=white"/></a> 
 
 - Python sklearn 사용한 데이터 분석 및 모델링 경험
 - Beautiful Soup 활용한 데이터 크롤링
