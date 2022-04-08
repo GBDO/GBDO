@@ -13,4 +13,10 @@ jobs:
       - uses: GBDO/metrics@latest
         with:
           config_timezone: Korea/Seoul
+          base: header
+          plugin_isocalendar: yes
+          plugin_languages: yes
+          plugin_stars: yes
+          config_order: base.header, isocalendar, languages, stars
+          config_presets: https://raw.githubusercontent.com/lowlighter/metrics/presets/lunar-red/preset.yaml
           token: ${{ secrets.METRICS_TOKEN }}
