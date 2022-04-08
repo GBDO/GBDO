@@ -5,7 +5,7 @@
 - 블로그: https://ford.tistory.com/ 
 - 깃헙: https://github.com/GBDO  
 
-![Metrics](/github-metrics.svg)
+![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
 
 ## Summary
 > 데이터 분석 직무를 목표로, 데이터에 관한 인사이트 채집을 위한 여정 중입니다.
