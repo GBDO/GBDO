@@ -1,4 +1,4 @@
-name: Metrics
+name: GBDO
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
@@ -10,7 +10,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: GBDO/metrics@latest
+      - uses: GBDO/GBDO@latest
         with:
           config_timezone: Korea/Seoul
           base: header
