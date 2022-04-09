@@ -20,7 +20,7 @@
 <img src ="https://img.shields.io/badge/PHP-black.svg?&style=flat-square&logo=PHP&logoColor=#777BB4"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
-
+<img src="https://img.shields.io/badge/PostgreSQL-white?style=flat-square&logo=PostgreSQL&logoColor=blue"/></a> 
 <img src ="https://img.shields.io/badge/MYSQL-blue.svg?&style=flat-square&logo=MYSQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/></a>
