@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/Qlick-green?style=flat-square&logo=Qlick&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Tableau-white?style=flat-square&logo=Tableau&logoColor=blue"/></a> 
 
-- Python sklearn 사용한 데이터 분석 및 모델링 경험
+- Python Scikit-Learn 사용한 데이터 분석 및 모델링 경험
 - Beautiful Soup 활용한 데이터 크롤링
 - Matplotlib 사용한 데이터 시각화(basic chart 구현)
 
