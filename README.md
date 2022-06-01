@@ -60,7 +60,7 @@
 - 동아대 IT 취업 동아리 Algorithm 스터디(2022.03.29 ~ 진행중)
   - [Baekjoon Online Judge](https://www.acmicpc.net/)
 
-- 동아대 AI 동아리 머신/딥러닝 스터디(2022.03.07 ~ 진행중)
+- 동아대 AI 동아리 머신/딥러닝 스터디(2022.03.07 ~ 2022.05.01)
   - [AI 동아리](https://github.com/GBDO/Tensorflow-AI-Study)
 
 - 캐글 데이터 분석 리뷰(2022.04 ~ 진행중)
