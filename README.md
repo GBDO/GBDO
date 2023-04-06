@@ -31,16 +31,6 @@
 <img src="https://img.shields.io/badge/Qlick-green?style=flat-square&logo=Qlick&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Tableau-white?style=flat-square&logo=Tableau&logoColor=blue"/></a> 
 
-- Python Scikit-Learn 사용한 데이터 분석 및 모델링 경험
-- Beautiful Soup 활용한 데이터 크롤링
-- Matplotlib 사용한 데이터 시각화(basic chart 구현)
-
-
-### 앞으로 공부할 것들
-- 데이터 기반 의사결정 위한 정량 수치 정의
-- 서비스 KPI의 측정과 평가를 위한 로그 설계를 포함한 각종 지표 설계, 생성, 모니터링, 대시보드 구축
-- 전사 서비스 및 다양한 이슈에 대한 데이터 분석 및 인사이트 도출
--  Python, SQL 등을 사용한 데이터 전처리, 분석 경험
 
 
 <!-- ## Experience -->
